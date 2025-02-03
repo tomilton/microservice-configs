@@ -1,0 +1,2 @@
+report:
+  template: "company: {company}, foundation_date: {foundation_date}, founder: {founder}, web_sites: {web_sites}"
