@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: companies
+  datasource:
+    url: jdbc:postgresql://localhost:5432/companies
+    username: debuggeandoideas
+    password: udemy123
